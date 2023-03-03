@@ -2,7 +2,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 Projeto desenvolvido no curso HTML e CSS: responsividade com mobile-first da Alura. O projeto é uma página estática feita com HTML e CSS e com a utilização de Media Queries para torná-la responsiva. 
-Para acessar o projeto, [clique aqui](https://anabilecki.github.io/alura-books/).
+Para acessá-lo, [clique aqui](https://anabilecki.github.io/alura-books/).
 
 ## Layout
 
